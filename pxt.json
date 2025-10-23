@@ -1,6 +1,6 @@
 {
     "name": "pxt-servoboard-jacdac",
-    "version": "0.0.3",
+    "version": "0.1.0",
     "description": "jacdac for Calliope mini Servoboard servos",
     "dependencies": {
         "core": "*",
