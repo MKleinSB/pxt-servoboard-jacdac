@@ -26,7 +26,7 @@ namespace modules {
 }
 namespace servers {
     function start() {
-        jacdac.productIdentifier = 0x3035b6a0
+        jacdac.productIdentifier = 0x32690c10
         jacdac.deviceDescription = "Calliope Servoboard 4 servo"
         jacdac.startSelfServers(() => [
             new jacdac.ServoServer(AnalogPin.C14, { instanceName: "C14" }),
