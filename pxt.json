@@ -1,13 +1,13 @@
 {
     "name": "pxt-servoboard-jacdac",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "jacdac for Calliope mini Servoboard servos",
     "dependencies": {
         "core": "*",
         "v3": "*",
-        "jacdac": "github:jacdac/pxt-jacdac#v1.9.40",
-        "jacdac-servo": "github:jacdac/pxt-jacdac/servo#v1.9.40",
-        "jacdac-servo-server": "github:jacdac/pxt-jacdac/servo-server#v1.9.40"
+        "jacdac": "github:microsoft/pxt-jacdac#v1.9.32",
+        "jacdac-servo": "github:microsoft/pxt-jacdac/servo#v1.9.32",
+        "jacdac-servo-server": "github:microsoft/pxt-jacdac/servo-server#v1.9.32"
     },
     "files": [
         "README.md",
